@@ -1,0 +1,1 @@
+SELECT * FROM team5_project_erd.article;
